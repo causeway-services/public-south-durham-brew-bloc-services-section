@@ -1,5 +1,6 @@
 {
   "name": "@red-cup-engineering/south-durham-brew-bloc",
+  "private": true,
   "version": "0.1.0",
   "type": "module",
   "description": "North Carolina Triangle Ecological Adaptation Team's South Durham Brew Bloc: building a genetically diverse fermentation-culture grex, the same intention as the Sorghum Society but for fermentation cultures rather than Sorghum bicolor.",
