@@ -6,7 +6,7 @@
   "description": "North Carolina Triangle Ecological Adaptation Team's South Durham Brew Bloc: building a genetically diverse fermentation-culture grex, the same intention as the Sorghum Society but for fermentation cultures rather than Sorghum bicolor.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/causeway-services/south-durham-brew-bloc.git"
+    "url": "git+https://github.com/causeway-services/public-south-durham-brew-bloc-services-section.git"
   },
   "keywords": [
     "metro-enterprise",
