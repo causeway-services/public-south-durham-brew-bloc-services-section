@@ -20,7 +20,7 @@ There are no further written notes on it beyond this record.
 
 Per the founder (emsenn), in the session that stood up this node
 (2026-07-17): the Brew Bloc's intention parallels the [South Durham Sorghum
-Society's](../south-durham-sorghum-society/content/south-durham-sorghum-society.md) —
+Society's](../public-south-durham-sorghum-society-services-section/content/public-south-durham-sorghum-society-services-section.md) —
 building a genetically/culturally diverse grex — except biased toward
 fermentation cultures rather than *Sorghum bicolor* cultures. Where the
 Sorghum Society grexes plant genetics from swapped and wild sorghum seed, the
